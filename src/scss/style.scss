@@ -1,7 +1,7 @@
 body {
   background-color: #000000;
   span {
-    color: rgb(116, 12, 12);
+    color: rgb(114, 9, 9);
   }
 }
 
@@ -13,6 +13,6 @@ body {
 
 @media (max-width: 768px) {
   body {
-    background-color: hsl(0, 0%, 0%);
+    background-color: hsl(0, 0%, 3%);
   }
 }
